@@ -12,3 +12,7 @@
 ## Save
 
 ![image](https://github.com/Karthikg1908/Coding-Raja-Technologies-Task-2/assets/86306862/4e492c8b-06f6-4e6b-aa8d-62590c238eb8)
+
+## Data is Saved In Json File
+
+![image](https://github.com/Karthikg1908/Coding-Raja-Technologies-Task-2/assets/86306862/52a21ce9-e0af-45d2-a96b-c86b8dcae09c)
